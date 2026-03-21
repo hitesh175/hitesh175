@@ -70,20 +70,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitesh175&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh175&layout=compact)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=hitesh175)
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: Kanagalahitesh@gmail.com  
