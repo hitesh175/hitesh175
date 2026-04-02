@@ -1,8 +1,8 @@
 #  Hi, I'm Hitesh
 
- Data Science Graduate Student (Germany)  
- Hamburg, Germany  
- Passionate about Machine Learning, Time-Series Analysis & Data Analytics  
+ Data Science & Machine Learning | Time-Series & Predictive Analytics  
+ Hamburg, Germany | Open to Working Student Roles  
+ 
 
 ---
 
