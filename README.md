@@ -69,7 +69,10 @@
 - Created Streamlit app for interactive analysis  
 
 ---
+###  Retail Dashboard Project
+- Analyzed retail sales data using SQL and Power BI to identify revenue trends, customer segments, and support data-driven forecasting.
 
+---
 ##  Connect With Me
 
 -  Email: Kanagalahitesh@gmail.com  
