@@ -94,5 +94,4 @@
 -  Portfolio: https://hitesh17.netlify.app/  
 
 ---
-
-⭐ Feel free to explore my repositories and connect!
+Feel free to explore my repositories and connect!
