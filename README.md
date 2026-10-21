@@ -67,7 +67,7 @@ SQLAlchemy · Azure Synapse · Azure Databricks · Delta Lake · Microsoft Purvi
 
 | Project | What I built | Core tools |
 |---|---|---|
-| [**ARTEMIS — Offline Voice Assistant**](https://github.com/hitesh175/Artemis) 🚧 | A privacy-first Windows assistant with local wake-word detection and approved desktop commands. Developing natural, single-sentence voice interaction; the public repo currently documents the Stage 1 baseline. | Python, ONNX, openWakeWord, faster-whisper (ongoing) |
+| [**ARTEMIS — Offline Voice Assistant**](https://github.com/hitesh175/Artemis) 🚧 | A privacy-first Windows assistant with local wake-word detection and approved desktop commands. Developing natural, single-sentence voice interaction; the public repo currently documents the Stage 7 baseline. | Python, ONNX, openWakeWord, faster-whisper (ongoing) |
 | [**Supply Chain Delay Prediction**](https://github.com/hitesh175/supply-chain-delay-prediction-ml) | Shipment-delay prediction and risk insights in an interactive dashboard. | Python, scikit-learn, Streamlit, Plotly |
 | [**Aircraft Performance Analytics Pipeline**](https://github.com/hitesh175/aircraft-performance-analytics-pipeline) | ETL pipeline, MySQL storage, aircraft range prediction, and a Streamlit dashboard. | Python, MySQL, Random Forest, Streamlit |
 | [**Retail Sales Analytics Dashboard**](https://github.com/hitesh175/retail-sales-dashboard) | Revenue KPIs, customer and product analysis, and sales forecasting views. | PostgreSQL, Power BI, DAX |
