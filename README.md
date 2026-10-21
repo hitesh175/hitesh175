@@ -1,6 +1,6 @@
 <!-- GitHub profile README: hitesh175/hitesh175 -->
 
-<h1 align="center">Hi, I'm Hitesh 👋</h1>
+<h1 align="center">Hi, I'm Hitesh </h1>
 
 <p align="center">
   <strong>MSc Applied Data Science & Artificial Intelligence · Hamburg, Germany</strong><br/>
@@ -19,10 +19,10 @@
 
 I'm a master's student in **Applied Data Science & AI at SRH University Hamburg**, with a focus on using data to solve practical problems—from predictive modelling and time-series analysis to data engineering and business intelligence.
 
-- 🔍 Interested in **Data Science, Machine Learning, Data Analytics, Business Intelligence, and Data Engineering**
-- 🛠️ Build end-to-end projects combining **data preparation → modelling/analysis → interactive dashboards**
-- 🎙️ Currently developing **ARTEMIS**, a privacy-first offline Windows voice assistant
-- 🤝 Open to **working-student roles, internships, and industry master's thesis collaborations** in Germany
+-  Interested in **Data Science, Machine Learning, Data Analytics, Business Intelligence, and Data Engineering**
+-  Build end-to-end projects combining **data preparation → modelling/analysis → interactive dashboards**
+-  Currently developing **ARTEMIS**, a privacy-first offline Windows voice assistant
+-  Open to **working-student roles, internships, and industry master's thesis collaborations** in Germany
 
 ### Tech stack
 
