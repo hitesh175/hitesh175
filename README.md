@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hitesh17.netlify.app/">Portfolio</a> •
+  <a href="https://hiteshkanagalaportfolio.vercel.app/">Portfolio</a> •
   <a href="https://linkedin.com/in/hitesh-k-r">LinkedIn</a> •
   <a href="mailto:Kanagalahitesh@gmail.com">Email</a>
 </p>
